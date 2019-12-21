@@ -1,5 +1,5 @@
 # dl-math-word-problem-solving
-Using Deep Learning Models to convert simple Math Word Problems to their corresponding Equations.
+Using Seq2Seq Model with Attention and Transformer Model to convert simple Math Word Problems to their corresponding Equations.
 
 
 References:
